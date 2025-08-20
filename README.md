@@ -1,6 +1,4 @@
-# Salom, men Said!
-👨‍💻 Dasturlashni o‘rganayapman.
-🚀 Mening loyihalarimni shu yerdan topishingiz mumkin.
+# https://git.io/typing-svg
 
 
 
