@@ -1,4 +1,7 @@
-# Hello, how are you?
+# Salom, men Said!
+👨‍💻 Dasturlashni o‘rganayapman.
+🚀 Mening loyihalarimni shu yerdan topishingiz mumkin.
+
 
 
 **shukurboyevodil/shukurboyevodil** is my profile
