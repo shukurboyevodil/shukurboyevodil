@@ -1,6 +1,5 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=7AA2FF&lines=Hello+how+are+you;My+name+is+Odil;and+Frontend+Developer)
-
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=38&duration=4000&color=KAALL&lines=Hello+how+are+you;I'm+Odil+Shukurboyev;and+Frontend+Developer)
+<hr/>
 
 
 
