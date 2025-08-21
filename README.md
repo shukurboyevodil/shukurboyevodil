@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=6000&color=569&lines=Contact+me;find+time+for+ideas;share+them+with+others;)
 
-*I have been in the programming field since September 2024. I learned "HTML" (Hypertext Markup Language) in the 1st month, "CSS" (Cascading Style Sheets) from the 2nd to the 6th month, and "JavaScript" programming language from the 6th to the 9th month. I am currently working on projects and learning "ReactJs".*
+***I have been in the programming field since September 2024. I learned "HTML" (Hypertext Markup Language) in the 1st month, "CSS" (Cascading Style Sheets) from the 2nd to the 6th month, and "JavaScript" programming language from the 6th to the 9th month. I am currently working on projects and learning "ReactJS".***
 
 
 
