@@ -7,8 +7,8 @@
 ![Git](https://img.shields.io/badge/Git-gray?logo=Git)
 ![teamwork](https://img.shields.io/badge/teamwork-cyan)
 
-[![Follow on GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge)](https://github.com/shukurboyevodil)
-[![Follow on GitHub](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/OdilShukurboyev)
+[![Follow on GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shukurboyevodil)
+[![Follow on GitHub](https://img.shields.io/badge/Linked-in-blue?style=for-the-badge)](https://linkedin.com/OdilShukurboyev)
 [![Follow on GitHub](https://img.shields.io/badge/telegtam-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Odil)
 
 
