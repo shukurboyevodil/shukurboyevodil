@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 ![HTML](https://img.shields.io/badge/HTML-orange)
 ![CSS](https://img.shields.io/badge/CSS-blue?logo=CSS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript)
-![Git](https://img.shields.io/badge/Git-gray?logo=Git)<br/>
+![Git](https://img.shields.io/badge/Git-gray?logo=Git)
 ![teamwork](https://img.shields.io/badge/teamwork-cyan)
 ![Sass](https://img.shields.io/badge/Sass-white?logo=sass)
 ![React](https://img.shields.io/badge/React-gray?logo=react)
