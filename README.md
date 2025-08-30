@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=4000&color=KAALL&lines=Hello+how+are+you;I'm+Odil+Shukurboyev;and+Frontend+Developer""/>
-</div>
+
 
 <hr/>
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-
+</div>
 
 
 
