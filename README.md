@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 ***I have been in the programming field since September 2024. I learned "HTML" (Hypertext Markup Language) in the 1st month, "CSS" (Cascading Style Sheets) from the 2nd to the 6th month, and "JavaScript" programming language from the 6th to the 9th month. I am currently working on projects and learning "ReactJS".***
 
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=mysql&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=CSS)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript)
 ![Git](https://img.shields.io/badge/Git-gray?style=for-the-badge&logo=Git)
