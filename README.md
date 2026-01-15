@@ -20,8 +20,6 @@ Here are some ideas to get you started:
   🌱 I am currently studying ...
   
   👯 I want to cooperate with you
-  
-  📫 How to contact me: +998 (90) 606-49-26
 
 [![Follow on GitHub](https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black)](https://github.com/shukurboyevodil)
 [![Follow on Linkedin](https://img.shields.io/badge/Linked-in-blue?style=for-the-badge)](https://linkedin.com/OdilShukurboyev)
